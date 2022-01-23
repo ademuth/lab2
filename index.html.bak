@@ -2,9 +2,13 @@
 <html lang="en">
   <head>
 	<meta charset="UTF-8">
-	<title>Title</title>
+	<title>ITMD-361 Internet Technologies and Web Design</title>
   </head>
   <body>
+	<header>
+	  <h1>ITMD-361 Internet Technologies and Web Design</h1>
+	</header>
+	<h3>Spring 2022</h3>
 	<p></p>
   </body>
  </html>
